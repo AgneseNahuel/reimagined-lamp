@@ -45,7 +45,12 @@ print(dinero)
 print("el genero: ", dinero['budget'].idxmax(), " con ", dinero['budget'].max())
 
 
-
+"""
+groupby: 1 .divide el dataframe en grupos
+         2 .les aplica una funcion
+         3 .combina los resultados en un dataframe
+         Basicamente agrupa...
+"""
 
 
 
